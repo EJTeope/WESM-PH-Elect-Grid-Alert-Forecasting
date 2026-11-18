@@ -96,31 +96,6 @@ The main notebook contains the complete analysis, visualizations, preprocessing 
 
 **[`Philippine_WESM_Grid_Alert_Classification.ipynb`](Philippine_WESM_Grid_Alert_Classification.ipynb)**
 
-### Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/EJTeope/WESM-Electricity-Dispatch-Analysis.git
-cd WESM-Electricity-Dispatch-Analysis
-
-# Create and activate a virtual environment
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# macOS / Linux
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch the notebook
-jupyter notebook
-```
-
-See `Data/README.md` for dataset information and instructions.
-
 ## Limitations & Next Steps
 
 This is an experimental analytical project, not a production forecasting or grid-control system.
