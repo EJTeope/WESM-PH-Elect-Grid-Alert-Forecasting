@@ -126,12 +126,3 @@ See `Data/README.md` for dataset information and instructions.
 This is an experimental analytical project, not a production forecasting or grid-control system.
 
 Future improvements include testing on additional months of data, investigating the limited number of Normal observations, validating the chosen thresholds with electricity-sector experts, and assessing whether the model's inputs would be available consistently at prediction time.
-
-## Author
-
-**Erden Jhed D. Teope**  
-BS Information Systems — Major in Business Analytics  
-West Visayas State University, College of ICT  
-Iloilo City, Philippines
-
-[LinkedIn](https://www.linkedin.com/in/ejteope/) · [GitHub](https://github.com/EJTeope)
